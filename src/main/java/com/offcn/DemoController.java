@@ -46,4 +46,11 @@ public class DemoController {
     }
 
 
+    public String hello(){
+        return "nihao feizhi";
+
+
+    }
+
+
 }
